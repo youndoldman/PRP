@@ -1,0 +1,5 @@
+sftp-config.json
+*.sublime-project
+*.sublime-workspace
+src/weibo
+src/xuguijing
